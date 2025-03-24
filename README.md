@@ -4,7 +4,7 @@ Este proyecto es una aplicación interactiva desarrollada en **Streamlit** que v
 
 ## 🌍 Vista previa del proyecto
 
-https://mapaconceptual-ibero-fcd-uwhfgwgac82urpshcxfmld.streamlit.app/
+![image](https://github.com/user-attachments/assets/769c255e-f6a6-494d-ac53-41eb8187826c)
 
 ## 🚀 Características
 - Visualización interactiva de conceptos clave en Ciencia de Datos.
