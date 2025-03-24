@@ -2,6 +2,10 @@
 
 Este proyecto es una aplicación interactiva desarrollada en **Streamlit** que visualiza un **Mapa Conceptual de Ciencia de Datos** utilizando la librería **Pyvis**.
 
+## 🌍 Vista previa del proyecto
+
+https://mapaconceptual-ibero-fcd-uwhfgwgac82urpshcxfmld.streamlit.app/
+
 ## 🚀 Características
 - Visualización interactiva de conceptos clave en Ciencia de Datos.
 - Uso de **Pyvis** para generar mapas conceptuales dinámicos.
@@ -31,19 +35,6 @@ Para ejecutar este proyecto en tu máquina local, sigue estos pasos:
    ```bash
    streamlit run app.py
    ```
-
-## 🌍 Despliegue en GitHub Pages o Streamlit Community Cloud
-Si deseas desplegar la aplicación, puedes utilizar **Streamlit Community Cloud**:
-
-1. Crea un repositorio en **GitHub**.
-2. Sube tu código.
-3. Entra a [Streamlit Community Cloud](https://share.streamlit.io/) y conecta tu repositorio.
-
-También puedes generar una versión estática del mapa conceptual y publicarlo en **GitHub Pages**:
-```bash
-streamlit run mapa-conceptual.py
-```
-Luego, sube el archivo generado `mapa_conceptual.html` y configúralo en GitHub Pages.
 
 ## 📄 Licencia
 Este proyecto está bajo la licencia MIT.
