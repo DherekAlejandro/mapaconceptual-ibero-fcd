@@ -5,7 +5,7 @@ from pyvis.network import Network
 st.set_page_config(page_title="Mapa Conceptual de Ciencia de Datos", layout="wide")
 
 # Encabezado
-st.title("📊 Mapa Conceptual de Ciencia de Datos")
+st.title("Actividad 1 - Ubicando la ciencia de datos y ubicándonos en ella")
 
 st.markdown("""
 ### **Descripción**
@@ -85,5 +85,5 @@ st.markdown("### **Mapa Conceptual Interactivo**")
 st.components.v1.html(open("mapa_conceptual.html", "r").read(), height=750)
 
 # Exportación del mapa conceptual
-st.markdown("### **👅 Descarga tu Mapa Conceptual**")
-st.markdown("Puedes hacer clic derecho sobre la imagen y guardarla como PNG o usar herramientas como Print Screen para capturarla.")
+st.markdown("### **👅 Descarga el Mapa Conceptual**")
+st.markdown("Puedes hacer clic derecho sobre la imagen y guardarla como PNG.")
